@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+This is the homepage of the Blog
 
 You can use the [editor on GitHub](https://github.com/karimpik/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
